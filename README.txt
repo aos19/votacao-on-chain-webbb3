@@ -1,4 +1,4 @@
-#Votação On-Chain – Projeto Web3 🗳️
+# Votação On-Chain – Projeto Web3 🗳️
 
 Este projeto é uma aplicação **Web3** que permite realizar uma **votação on-chain** utilizando **Blockchain Ethereum** e **Smart Contracts** desenvolvidos na IDE para programação Web3 **Remix**, por meio da linguagem Solidity. A interação com a blockchain é feita diretamente pelo navegador através da **MetaMask**.
 
@@ -6,13 +6,13 @@ O projeto foi desenvolvido com foco em aprendizado prático de **Web3**, integra
 
 ---
 
-##O que é Web3? 🚀
+## O que é Web3? 🚀
 
 A **Web3** é a nova geração da internet, baseada em tecnologias descentralizadas como **blockchain**, **smart contracts** e **carteiras digitais**. Diferente da Web2, a Web3 permite que os usuários tenham controle direto sobre seus dados, identidade e ativos, sem depender exclusivamente de intermediários.
 
 ---
 
-##Funcionalidades 📌
+## Funcionalidades 📌
 
 * Conexão com carteira **MetaMask**
 * Autenticação do usuário via wallet
@@ -23,7 +23,7 @@ A **Web3** é a nova geração da internet, baseada em tecnologias descentraliza
 
 ---
 
-##Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 🛠️
 
 ### Blockchain / Web3
 
@@ -42,7 +42,7 @@ A **Web3** é a nova geração da internet, baseada em tecnologias descentraliza
 
 ---
 
-##Estrutura do Projeto (exemplo) 📂
+## Estrutura do Projeto (exemplo) 📂
 
 ```
 ├── contracts/
@@ -61,7 +61,7 @@ A **Web3** é a nova geração da internet, baseada em tecnologias descentraliza
 
 ---
 
-##Pré-requisitos ⚙️
+## Pré-requisitos ⚙️
 
 Antes de rodar o projeto, você precisará ter instalado:
 
@@ -72,7 +72,7 @@ Antes de rodar o projeto, você precisará ter instalado:
 
 ---
 
-##Como rodar o projeto localmente ▶️
+## Como rodar o projeto localmente ▶️
 
 1. Clone o repositório:
 
@@ -112,7 +112,7 @@ http://localhost:5173
 
 ---
 
-##Smart Contract 🔗
+## Smart Contract 🔗
 
 * O smart contract foi desenvolvido em **Solidity**
 * Deploy realizado em uma **testnet Ethereum**
@@ -120,7 +120,7 @@ http://localhost:5173
 
 ---
 
-##Aprendizados 📚
+## Aprendizados 📚
 
 Com este projeto foi possível aprender e praticar:
 
